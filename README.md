@@ -1,3 +1,7 @@
+<center>
+<img src="images/bloomberg_redditarticle_img.jpg">
+</center>
+
 * All file [Datasets](https://drive.google.com/drive/folders/1Q4dtJzIFRQfACgEOSoswOCzkLDYHmMe7?usp=share_link) in Google drive
 
 ![image](images/csv_file_datasets.png)
